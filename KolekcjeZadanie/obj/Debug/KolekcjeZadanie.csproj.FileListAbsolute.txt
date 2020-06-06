@@ -1,0 +1,10 @@
+C:\Users\milos\source\repos\KolekcjeZadanie\KolekcjeZadanie\bin\Debug\KolekcjeZadanie.exe.config
+C:\Users\milos\source\repos\KolekcjeZadanie\KolekcjeZadanie\bin\Debug\KolekcjeZadanie.exe
+C:\Users\milos\source\repos\KolekcjeZadanie\KolekcjeZadanie\bin\Debug\KolekcjeZadanie.pdb
+C:\Users\milos\source\repos\KolekcjeZadanie\KolekcjeZadanie\obj\Debug\KolekcjeZadanie.csprojAssemblyReference.cache
+C:\Users\milos\source\repos\KolekcjeZadanie\KolekcjeZadanie\obj\Debug\KolekcjeZadanie.csproj.CoreCompileInputs.cache
+C:\Users\milos\source\repos\KolekcjeZadanie\KolekcjeZadanie\obj\Debug\KolekcjeZadanie.exe
+C:\Users\milos\source\repos\KolekcjeZadanie\KolekcjeZadanie\obj\Debug\KolekcjeZadanie.pdb
+C:\Users\milos\source\repos\KolekcjeZadanie\KolekcjeZadanie\bin\Debug\PersonsClass.dll
+C:\Users\milos\source\repos\KolekcjeZadanie\KolekcjeZadanie\bin\Debug\PersonsClass.pdb
+C:\Users\milos\source\repos\KolekcjeZadanie\KolekcjeZadanie\obj\Debug\KolekcjeZadanie.csproj.CopyComplete
